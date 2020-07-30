@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.statusWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.statusWrap a {
+    width: 49%;
+}
