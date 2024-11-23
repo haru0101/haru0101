@@ -1,0 +1,26 @@
+<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="clockPath" d="M10,10 m-7,0 a7,7 0 1,1 14,0 a7,7 0 1,1 -14,0" />
+  </defs>
+  
+  <!-- 背景（透明） -->
+  <rect width="20" height="20" fill="none" />
+  
+  <!-- 時計の外枠 -->
+  <circle cx="10" cy="10" r="9" fill="#2c3e50" />
+  
+  <!-- 時計の文字盤 -->
+  <circle cx="10" cy="10" r="7" fill="#ecf0f1" />
+  
+  <!-- 時計の針 -->
+  <path d="M10 10 L10 5" stroke="#e74c3c" stroke-width="1" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="6s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- 人物アイコン -->
+  <path d="M6 14 A2 2 0 0 1 8 12 A2 2 0 0 1 10 14 L10 18 L6 18 Z" fill="#3498db">
+    <animateMotion dur="3s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#clockPath" />
+    </animateMotion>
+  </path>
+</svg>

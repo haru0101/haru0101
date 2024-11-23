@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'>
+  <g>
+    <circle cx='10' cy='10' r='8' fill='none' stroke='#4A90E2' stroke-width='2'>
+      <animate attributeName='stroke-dasharray' from='0 50' to='50 0' dur='3s' repeatCount='indefinite'/>
+    </circle>
+    <path d='M6,10 Q10,5 14,10 T6,10' fill='none' stroke='#50E3C2' stroke-width='2'>
+      <animate attributeName='d' values='M6,10 Q10,5 14,10 T6,10; M6,10 Q10,15 14,10 T6,10; M6,10 Q10,5 14,10 T6,10' dur='3s' repeatCount='indefinite'/>
+    </path>
+  </g>
+</svg>
