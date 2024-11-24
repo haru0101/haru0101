@@ -24,7 +24,7 @@
 |------|--------|
 | 2023 - Present | LY Corp. (formerly LINE Corp.) |
 | 2021 - 2023 | LINE Corp. (formerly LINE Growth Technology) |
-| 2018 - 2021 | triana, inc |
+| 2018 - 2021 | triana,Inc. |
 
 ## ![SVG Animation](./icons/stats.svg) My Roadmap
 
