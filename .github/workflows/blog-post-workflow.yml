@@ -12,7 +12,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://zenn.dev/harryduck/feed, https://note.com/okuda_haruki/rss"
+          template: "$newline- $date [$title]($url)"
           feed_names: "Zenn, note"
-          template: |
-            - $newline$date [$title]($url)$newline 
           date_format: "yyyy-mm-dd"
