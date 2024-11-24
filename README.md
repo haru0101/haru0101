@@ -26,46 +26,11 @@
 
 ## ![SVG Animation](./icons/icon-writing.svg) Writing
 
-<!-- BLOG-POST-LIST:START -->### Zennの記事
-- 
-YYYY-40-DD [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
-
-
-### noteの記事
-- 
-YYYY-40-DD [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
-### Zennの記事
-- 
-YYYY-39-DD [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
-
-
-### noteの記事
-- 
-YYYY-39-DD [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
-### Zennの記事
-- 
-YYYY-40-DD [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)
-
-
-### noteの記事
-- 
-YYYY-40-DD [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)
-### Zennの記事
-- 
-YYYY-21-DD [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
-
-
-### noteの記事
-- 
-YYYY-21-DD [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
-### Zennの記事
-- 
-YYYY-14-DD [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
-
-
-### noteの記事
-- 
-YYYY-14-DD [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
+<!-- BLOG-POST-LIST:START -->2024-06-22 [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
+2023-07-25 [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
+2023-06-27 [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)
+2023-05-30 [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
+2022-10-23 [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
 <!-- BLOG-POST-LIST:END -->
 
 ## ![SVG Animation](./icons/icon-stats.svg) My Roadmap
