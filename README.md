@@ -1,8 +1,8 @@
-# ![SVG Animation](./introduction.svg) Hi, I'm Haruki!
+# ![SVG Animation](./icons/introduction.svg) Hi, I'm Haruki!
 
 I'm a Frontend developer from Japan 🇯🇵
 
-## ![SVG Animation](./my-skills.svg) My Skills
+## ![SVG Animation](./icons/my-skills.svg) My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -19,7 +19,7 @@ I'm a Frontend developer from Japan 🇯🇵
 
 </div>
 
-## ![SVG Animation](./work-history.svg) Work History
+## ![SVG Animation](./icons/work-history.svg) Work History
 
 | Period | Company |
 |------|--------|
@@ -27,15 +27,18 @@ I'm a Frontend developer from Japan 🇯🇵
 | 2021 - 2023 | LINE Corp. (formerly LINE Growth Technology) |
 | 2018 - 2021 | triana, inc |
 
-## ![SVG Animation](./stats.svg) My Roadmap
+## ![SVG Animation](./icons/stats.svg) My Roadmap
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&theme=radical" alt="GitHub Stats">
 </div> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru0101&layout=compact&theme=radical)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=haru0101)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
 
-## ![SVG Animation](./writing.svg)  最近の記事
+## ![SVG Animation](./icons/writing.svg)  最近の記事
 
 <!-- BLOG-POST-LIST:START -->
 - [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
