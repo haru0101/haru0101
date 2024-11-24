@@ -24,10 +24,6 @@
 | 2021 - 2023 | LINE Corp. (formerly LINE Growth Technology) |
 | 2018 - 2021 | triana,Inc. |
 
-## ![SVG Animation](./icons/stats.svg) My Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
-
 ## ![SVG Animation](./icons/writing.svg) Writing
 
 <!-- BLOG-POST-LIST:START -->
@@ -37,3 +33,7 @@
 - [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
 - [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
 <!-- BLOG-POST-LIST:END -->
+
+## ![SVG Animation](./icons/stats.svg) My Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
