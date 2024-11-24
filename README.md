@@ -32,7 +32,7 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
 
-## ![SVG Animation](./icons/writing.svg) 最近の記事
+## ![SVG Animation](./icons/writing.svg) Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
