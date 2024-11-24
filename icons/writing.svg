@@ -1,25 +1,24 @@
-<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<svg width="20" height="20" viewBox="0 -2 20 22" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path id="writingPath" d="M3 17 Q 5 10 9 12 Q 11 14 12 5 T 17 7" />
     <path id="squarePath" d="M1 1 H19 V19 H1 Z" />
   </defs>
   
+  <!-- ペン -->
+    <path d="M0 0 L5 0 L2.5 6 Z" fill="#2c3e50">
+      <animateMotion dur="2s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;1;0" keyTimes="0;0.5;1" fill="freeze">
+        <mpath href="#writingPath" />
+      </animateMotion>
+    </path>
+    
+    <!-- インク（writing） -->
+    <path d="M3 17 Q 5 10 9 12 Q 11 14 12 5 T 17 7" stroke="#1abc9c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" values="0 100;50 0;0 100" keyTimes="0;0.5;1" dur="2s" repeatCount="indefinite" />
+    </path>
+
   <!-- 背景 -->
   <rect x="0" y="0" width="20" height="20" fill="none" />
-  
-  <!-- ペン -->
-  <path d="M0 0 L5 0 L2.5 6 Z" fill="#2c3e50">
-    <animateMotion dur="2s" repeatCount="indefinite" rotate="auto" calcMode="linear" keyPoints="0;1;0" keyTimes="0;0.5;1" fill="freeze">
-      <mpath href="#writingPath" />
-    </animateMotion>
-  </path>
-  
-  <!-- インク（writing） -->
-  <path d="M3 17 Q 5 10 9 12 Q 11 14 12 5 T 17 7" stroke="#1abc9c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <animate attributeName="stroke-dasharray" values="0 100;50 0;0 100" keyTimes="0;0.5;1" dur="2s" repeatCount="indefinite" />
-  </path>
-  
-  <!-- インク（四角形） -->
+
+  <!-- 枠線（四角形） -->
   <path d="M1 1 H19 V19 H1 Z" stroke="#3498db" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <animate attributeName="stroke-dasharray" from="0 80" to="80 0" dur="4s" repeatCount="indefinite" />
   </path>
