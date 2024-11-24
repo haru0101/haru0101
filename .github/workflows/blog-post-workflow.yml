@@ -14,4 +14,4 @@ jobs:
           feed_list: "https://zenn.dev/harryduck/feed, https://note.com/okuda_haruki/rss"
           template: "$newline- $date [$title]($url)"
           feed_names: "Zenn, note"
-          date_format: "yyyy-mm-dd"
+          date_format: "yyyy/mm/dd"
