@@ -1,6 +1,6 @@
 ![メインビジュアル](images/main-visual.png)
 
-## ![SVG Animation](./icons/my-skills.svg) My Skills
+## ![SVG Animation](./icons/icon-my-skills.svg) My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-## ![SVG Animation](./icons/work-history.svg) Work History
+## ![SVG Animation](./icons/icon-work-history.svg) Work History
 
 | Period | Company |
 |------|--------|
@@ -24,7 +24,7 @@
 | 2021 - 2023 | LINE Corp. (formerly LINE Growth Technology) |
 | 2018 - 2021 | triana,Inc. |
 
-## ![SVG Animation](./icons/writing.svg) Writing
+## ![SVG Animation](./icons/icon-writing.svg) Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
@@ -34,6 +34,6 @@
 - [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
 <!-- BLOG-POST-LIST:END -->
 
-## ![SVG Animation](./icons/stats.svg) My Roadmap
+## ![SVG Animation](./icons/icon-stats.svg) My Roadmap
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
