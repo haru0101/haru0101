@@ -38,4 +38,9 @@ I'm a Frontend developer from Japan 🇯🇵
 ## ![SVG Animation](./writing.svg)  最近の記事
 
 <!-- BLOG-POST-LIST:START -->
+- [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
+- [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
+- [やってみたら意外と簡単！はじめてのOSSコントリビュート](https://zenn.dev/harryduck/articles/00d700ef4d98fa)
+- [【Vue】&lt;script setup&gt;をサクッと使ってみる](https://zenn.dev/harryduck/articles/7550e7fd938db5)
+- [keyof typeofでオブジェクトからキーだけを抜き出して型を生成する](https://zenn.dev/harryduck/articles/9d09b1c133f9cd)
 <!-- BLOG-POST-LIST:END -->
