@@ -26,12 +26,17 @@
 
 ## ![SVG Animation](./icons/icon-writing.svg) Writing
 
-<!-- BLOG-POST-LIST:START -->
-- note -> 2024-06-22 [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
-- note -> 2023-07-25 [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
-- note -> 2023-06-27 [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)
-- Zenn -> 2023-05-30 [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
-- Zenn -> 2022-10-23 [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)<!-- BLOG-POST-LIST:END -->
+### Zenn
+
+<!-- ZENN-POST-LIST:START -->
+
+<!-- ZENN-POST-LIST:END -->
+
+### note
+
+<!-- NOTE-POST-LIST:START -->
+
+<!-- NOTE-POST-LIST:END -->
 
 ## ![SVG Animation](./icons/icon-stats.svg) My Roadmap
 
