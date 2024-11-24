@@ -26,13 +26,7 @@
 
 ## ![SVG Animation](./icons/icon-writing.svg) Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)
-- [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
-- [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)
-- [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
-- [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->Sat Jun 22 2024 7:40 AM [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/okuda_haruki/n/nb95bf39a78ea)Tue Jul 25 2023 11:39 AM [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)Tue Jun 27 2023 1:40 PM [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)Tue May 30 2023 1:21 PM [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)Sun Oct 23 2022 4:14 AM [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)<!-- BLOG-POST-LIST:END -->
 
 ## ![SVG Animation](./icons/icon-stats.svg) My Roadmap
 
