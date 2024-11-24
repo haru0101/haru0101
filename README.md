@@ -1,3 +1,5 @@
+![メインビジュアル](images/main-visual.png)
+
 # ![SVG Animation](./icons/introduction.svg) Hi, I'm Haruki!
 
 I'm a Frontend developer from Japan 🇯🇵
