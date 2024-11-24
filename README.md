@@ -35,8 +35,7 @@ I'm a Frontend developer from Japan 🇯🇵
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
 
-<!-- ## ![SVG Animation](./writing.svg)  最近の記事
+## ![SVG Animation](./writing.svg)  最近の記事
 
-- [記事タイトル1](リンク1)
-- [記事タイトル2](リンク2)
-- [記事タイトル3](リンク3) -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
