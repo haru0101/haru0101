@@ -31,16 +31,11 @@ I'm a Frontend developer from Japan 🇯🇵
 
 ## ![SVG Animation](./icons/stats.svg) My Roadmap
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&theme=radical" alt="GitHub Stats">
-</div> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru0101&layout=compact&theme=radical)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=haru0101)
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
 
-## ![SVG Animation](./icons/writing.svg)  最近の記事
+## ![SVG Animation](./icons/writing.svg) 最近の記事
 
 <!-- BLOG-POST-LIST:START -->
 - [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
