@@ -1,6 +1,5 @@
 ![メインビジュアル](images/main-visual.png)
 
-
 ## ![SVG Animation](./icons/my-skills.svg) My Skills
 
 <div align="center">
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
 </div>
 
 ## ![SVG Animation](./icons/work-history.svg) Work History
@@ -27,8 +25,6 @@
 | 2018 - 2021 | triana,Inc. |
 
 ## ![SVG Animation](./icons/stats.svg) My Roadmap
-
-
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
 
