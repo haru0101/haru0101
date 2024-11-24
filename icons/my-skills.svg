@@ -1,30 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+<svg width="20" height="20" viewBox="0 -2 20 22" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
   <g transform="translate(0, 2)">
-    <!-- 外側の円 -->
-    <circle cx="10" cy="10" r="9" fill="none" stroke="#3572A5" stroke-width="1">
-      <animate attributeName="r" values="6;9;6" dur="3s" repeatCount="indefinite" />
+    <!-- ブラウザウィンドウを模した中心の六角形 -->
+    <path d="M10 1 L17 4.5 L17 13.5 L10 17 L3 13.5 L3 4.5 Z" fill="url(#skillGradient)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
+    </path>
+    
+    <!-- スキルノード -->
+    <circle cx="3" cy="4.5" r="1.8" fill="#10b981">
+      <animate attributeName="r" values="1.8;2.3;1.8" dur="2s" repeatCount="indefinite" />
     </circle>
-
-    <!-- 中央の回転するポリゴン -->
-    <polygon points="10,1 4,19 19,7.5 1,7.5 16,19" fill="#F7DF1E" opacity="0.7">
-      <animateTransform attributeName="transform" type="rotate" from="0 10 10" to="360 10 10" dur="10s" repeatCount="indefinite" />
-    </polygon>
-
-    <!-- 中央のアニメーションする四角形 -->
-    <rect x="8" y="8" width="4" height="4" fill="#E34F26">
-      <animate attributeName="width" values="0;4;0" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="height" values="0;4;0" dur="2s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- 曲線パス -->
-    <path d="M3,3 Q10,10 17,17" stroke="#61DAFB" stroke-width="1" fill="none">
-      <animate attributeName="d"
-        values="
-          M3,3 Q10,10 17,17;
-          M3,17 Q10,10 17,3;
-          M3,3 Q10,10 17,17
-        " dur="4s" repeatCount="indefinite"
-      />
+    <circle cx="17" cy="4.5" r="1.8" fill="#f59e0b">
+      <animate attributeName="r" values="1.8;2.3;1.8" dur="2s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="17" cy="13.5" r="1.8" fill="#ef4444">
+      <animate attributeName="r" values="1.8;2.3;1.8" dur="2s" begin="0.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="3" cy="13.5" r="1.8" fill="#3b82f6">
+      <animate attributeName="r" values="1.8;2.3;1.8" dur="2s" begin="1.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="10" cy="17" r="1.8" fill="#8b5cf6">
+      <animate attributeName="r" values="1.8;2.3;1.8" dur="2s" begin="1.6s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- 接続線 -->
+    <path d="M3 4.5 Q10 7.5 17 4.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
+    </path>
+    <path d="M17 4.5 Q15 9 17 13.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" begin="0.5s" repeatCount="indefinite" />
+    </path>
+    <path d="M17 13.5 Q10 15.5 3 13.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" begin="1s" repeatCount="indefinite" />
+    </path>
+    <path d="M3 13.5 Q5 9 3 4.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" begin="1.5s" repeatCount="indefinite" />
+    </path>
+    <path d="M10 17 Q6.5 15 3 13.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" begin="2s" repeatCount="indefinite" />
+    </path>
+    <path d="M10 17 Q13.5 15 17 13.5" stroke="#d1d5db" stroke-width="0.7" fill="none">
+      <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" begin="2.5s" repeatCount="indefinite" />
     </path>
   </g>
 </svg>
