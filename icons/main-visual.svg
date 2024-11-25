@@ -6,7 +6,7 @@
       font-size: 48px;
       font-weight: 900;
       text-anchor: middle;
-      fill: url(#textGradient);
+      fill: #000;
       stroke: black;
       stroke-width: 1px;
       filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.5));
