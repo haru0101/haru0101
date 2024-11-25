@@ -1,5 +1,7 @@
 <!-- ![メインビジュアル: 自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](images/main-visual.png) -->
-![SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](./icons/main-visual.svg)
+<img src="./images/main-visual-dark.svg#gh-dark-mode-only" alt="SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）" />
+
+<img src="./images/main-visual-light.svg#gh-light-mode-only" alt="SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）" />
 
 ## ![My Skills アイコン](./icons/icon-my-skills.svg) My Skills
 

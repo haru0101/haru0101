@@ -16,15 +16,6 @@
       text-anchor: middle;
     }
     
-    /* ダークモード対応 */
-    @media (prefers-color-scheme: dark) {
-      .header {
-        fill: #fff;
-        stroke-width: 1px; 
-        stroke: #444; 
-      }
-    }
-    
     .circle {
       fill: none;
       stroke: rgba(135, 206, 250, 0.7); /* 水色 */
