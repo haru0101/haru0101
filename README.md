@@ -1,7 +1,7 @@
 <!-- ![メインビジュアル: 自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](images/main-visual.png) -->
-<img src="https://haru0101.github.io/haru0101/images/main-visual-dark.svg#gh-dark-mode-only" alt="SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）" />
+<object type="image/svg+xml" data="https://haru0101.github.io/haru0101/images/main-visual-dark.svg#gh-dark-mode-only">SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）</object>
 
-<img src="https://haru0101.github.io/haru0101/images/main-visual-light.svg#gh-light-mode-only" alt="SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）" />
+<object type="image/svg+xml" data="https://haru0101.github.io/haru0101/images/main-visual-light.svg#gh-light-mode-only">SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）</object>
 
 ## ![My Skills アイコン](./icons/icon-my-skills.svg) My Skills
 
