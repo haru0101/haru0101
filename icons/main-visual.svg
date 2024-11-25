@@ -7,8 +7,6 @@
       font-weight: 900;
       text-anchor: middle;
       fill: #000;
-      stroke: black;
-      stroke-width: 1px;
     }
 
     .subheader {
