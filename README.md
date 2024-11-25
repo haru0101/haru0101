@@ -1,6 +1,6 @@
 <!-- ![メインビジュアル: 自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](images/main-visual.png) -->
 ![SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](./icons/main-visual.svg)
-## ![SVG Animation](./icons/icon-my-skills.svg) My Skills
+## ![My Skills アイコン](./icons/icon-my-skills.svg) My Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-## ![SVG Animation](./icons/icon-work-history.svg) Work History
+## ![Work History アイコン](./icons/icon-work-history.svg) Work History
 
 | Period | Company |
 |------|--------|
@@ -24,7 +24,7 @@
 | 2021 - 2023 | LINE Corp. (formerly LINE Growth Technology) |
 | 2018 - 2021 | triana,Inc. |
 
-## ![SVG Animation](./icons/icon-writing.svg) Writing
+## ![Writing アイコン](./icons/icon-writing.svg) Writing
 
 ### Zenn
 
@@ -42,6 +42,6 @@
 - 2023-07-25 [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
 - 2023-06-27 [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)<!-- NOTE-POST-LIST:END -->
 
-## ![SVG Animation](./icons/icon-stats.svg) My Roadmap
+## ![Stats アイコン](./icons/icon-stats.svg) My Roadmap
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=dark)](https://roadmap.sh)
