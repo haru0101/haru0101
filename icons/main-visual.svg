@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <style>
+    /* テキストスタイル */
+    .header {
+      font-family: 'Satoshi', sans-serif;
+      font-size: 48px;
+      font-weight: 900;
+      text-anchor: middle;
+      fill: url(#textGradient);
+      stroke: black;
+      stroke-width: 1px;
+      filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.5));
+    }
+
+    .subheader {
+      font-family: 'Abril Fatface', serif;
+      font-size: 24px;
+      fill: #808080;
+      text-anchor: middle;
+    }
+    
+    /* ダークモード対応 */
+    @media (prefers-color-scheme: dark) {
+      .header {
+        fill: #fff;
+        stroke-width: 1px; 
+        stroke: #444; 
+      }
+    }
+    
+    .circle {
+      fill: none;
+      stroke: rgba(135, 206, 250, 0.7); /* 水色 */
+      stroke-width: 2;
+      animation: rippleEffect 4s infinite ease-out;
+    }
+
+    @keyframes rippleEffect {
+      0% {
+        r: 0;
+        opacity: 1;
+      }
+      100% {
+        r: 200; /* 最大半径 */
+        opacity: 0;
+      }
+    }
+
+    /* ランダム性 */
+    .circle:nth-child(2) {
+      animation-delay: 0.5s;
+    }
+    .circle:nth-child(3) {
+      animation-delay: 1s;
+    }
+  
+  </style>
+
+  <!-- テキスト用グラデーション -->
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff8a00" />
+      <stop offset="100%" stop-color="#e52e71" />
+    </linearGradient>
+  </defs>
+
+  <!-- 背景アニメーション -->
+  <circle class="circle" cx="50%" cy="50%" r="0" />
+  <circle class="circle" cx="50%" cy="50%" r="0" />
+  <circle class="circle" cx="50%" cy="50%" r="0" />
+
+  <!-- メインテキスト -->
+  <text class="header" x="50%" y="50%"> <!-- 上側余白をさらに短縮 -->
+    Hey! I’m Haruki!
+  </text>
+  <text class="subheader" x="50%" y="68%"> <!-- 下側余白をさらに短縮 -->
+    Frontend Developer from Japan 🇯🇵
+  </text>
+</svg>
