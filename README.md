@@ -1,5 +1,5 @@
-![メインビジュアル](images/main-visual.png)
-
+<!-- ![メインビジュアル: 自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](images/main-visual.png) -->
+![SVG Animation: 波紋アニメーションと自己紹介（Hey! I'm Haruki! Frontend Developer from Japan）](./icons/main-visual.svg)
 ## ![SVG Animation](./icons/icon-my-skills.svg) My Skills
 
 <div align="center">
