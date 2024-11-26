@@ -23,7 +23,7 @@
 
 | Period | Company | Roles and Achievements |
 | - | - | - |
-| 2023 - Present | LINEヤフー株式会社<br>(formerly LINE株式会社) | 月間利用者7,700万人、月間154億PVを超える LINE NEWS のエンドユーザー向け画面の開発に従事。 |
+| 2023 - Present | LINEヤフー株式会社<br>(formerly LINE株式会社) | 月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。 |
 | 2021 - 2023 | LINE株式会社<br>(formerly LINE Growth Technology株式会社) | 同 LINE NEWS の媒体社向け管理画面の開発に従事。 |
 | 2018 - 2021 | 株式会社トリアナ | 大学3年次から企業の HP 制作や、EC サイトの構築、婚活事業の Web アプリケーションの開発などに従事。 |
 
