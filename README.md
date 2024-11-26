@@ -21,11 +21,38 @@
 
 ## ![Work Experience アイコン](./icons/icon-work-experience.svg) Work Experience
 
-| Period | Company | Responsibilities |
-|---------|------------|--------------------------|
-| 2023 - 現在 | LINEヤフー株式会社<br>(旧称: LINE株式会社) | 月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。 |
-| 2021 - 2023 | LINE株式会社<br>(旧称: LINE Growth Technology 株式会社) | 同 LINE NEWS の媒体社向け管理画面の開発に従事。 |
-| 2018 - 2021 | 株式会社トリアナ | 大学3年次から企業の HP 制作や、EC サイトの構築、婚活事業の Web アプリケーションの開発などに従事。 |
+<table style="width: 100%; border-collapse: collapse;">
+  <colgroup>
+    <col style="width: 20%;">
+    <col style="width: 30%;">
+    <col style="width: 50%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Period</th>
+      <th style="text-align: left;">Company</th>
+      <th style="text-align: left;">Responsibilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023 - Present</td>
+      <td>LINEヤフー株式会社<br>(formerly LINE株式会社)</td>
+      <td>月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。</td>
+    </tr>
+    <tr>
+      <td>2021 - 2023</td>
+      <td>LINE株式会社<br>(formerly LINE Growth Technology株式会社)</td>
+      <td>同 LINE NEWS の媒体社向け管理画面の開発に従事。</td>
+    </tr>
+    <tr>
+      <td>2018 - 2021</td>
+      <td>株式会社トリアナ</td>
+      <td>大学3年次から企業の HP 制作や、EC サイトの構築、婚活事業の Web アプリケーションの開発などに従事。</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## ![Writing アイコン](./icons/icon-writing.svg) Writing
 
