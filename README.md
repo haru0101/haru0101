@@ -23,9 +23,9 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <colgroup>
-    <col style="width: 20%;">
+    <col style="width: 25%;">
     <col style="width: 30%;">
-    <col style="width: 50%;">
+    <col style="width: 45%;">
   </colgroup>
   <thead>
     <tr>
