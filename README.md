@@ -29,20 +29,20 @@
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: left;">Period</th>
-      <th style="text-align: left;">Company</th>
-      <th style="text-align: left;">Responsibilities</th>
+      <th style="text-align: left;">期間</th>
+      <th style="text-align: left;">社名</th>
+      <th style="text-align: left;">業務内容</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2023 - Present</td>
-      <td>LINEヤフー株式会社<br>(formerly LINE株式会社)</td>
+      <td>2023 - 現在</td>
+      <td>LINEヤフー株式会社<br>(旧称: LINE株式会社)</td>
       <td>月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。</td>
     </tr>
     <tr>
       <td>2021 - 2023</td>
-      <td>LINE株式会社<br>(formerly LINE Growth Technology株式会社)</td>
+      <td>LINE株式会社<br>(旧称: LINE Growth Technology株式会社)</td>
       <td>同 LINE NEWS の媒体社向け管理画面の開発に従事。</td>
     </tr>
     <tr>
