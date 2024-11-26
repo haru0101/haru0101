@@ -48,3 +48,11 @@
 ## ![Stats アイコン](./icons/icon-stats.svg) My Roadmap
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=light)](https://roadmap.sh)
+
+## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
+
+<div align="center">
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</div>
