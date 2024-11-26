@@ -25,8 +25,8 @@
   <thead>
     <tr>
       <th width="15%">期間</th>
-      <th width="30%">社名</th>
-      <th width="55%">業務内容</th>
+      <th width="35%">社名</th>
+      <th width="50%">業務内容</th>
     </tr>
   </thead>
   <tbody>
