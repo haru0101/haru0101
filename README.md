@@ -22,16 +22,11 @@
 ## ![Work Experience アイコン](./icons/icon-work-experience.svg) Work Experience
 
 <table style="width: 100%; border-collapse: collapse;">
-  <colgroup>
-    <col style="width: 25%;">
-    <col style="width: 30%;">
-    <col style="width: 45%;">
-  </colgroup>
   <thead>
     <tr>
-      <th style="text-align: left;">期間</th>
-      <th style="text-align: left;">社名</th>
-      <th style="text-align: left;">業務内容</th>
+      <th style="width: 20%; text-align: left;">期間</th>
+      <th style="width: 30%; text-align: left;">社名</th>
+      <th style="width: 50%; text-align: left;">業務内容</th>
     </tr>
   </thead>
   <tbody>
