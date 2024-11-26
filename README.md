@@ -19,12 +19,12 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-## ![Work History アイコン](./icons/icon-work-history.svg) Work History
+## ![Work Experience アイコン](./icons/icon-work-experience.svg) Work Experience
 
 | Period | Company | Roles and Achievements |
 | - | - | - |
-| 2023 - Present | LINEヤフー株式会社<br>(formerly LINE株式会社) | 月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。 |
-| 2021 - 2023 | LINE株式会社<br>(formerly LINE Growth Technology株式会社) | 同 LINE NEWS の媒体社向け管理画面の開発に従事。 |
+| 2023 - 現在 | LINEヤフー株式会社<br>(旧称: LINE株式会社) | 月間利用者7,700万人、月間154億 PV を超える LINE NEWS のエンドユーザー向け画面の開発に従事。 |
+| 2021 - 2023 | LINE株式会社<br>(旧称: LINE Growth Technology 株式会社) | 同 LINE NEWS の媒体社向け管理画面の開発に従事。 |
 | 2018 - 2021 | 株式会社トリアナ | 大学3年次から企業の HP 制作や、EC サイトの構築、婚活事業の Web アプリケーションの開発などに従事。 |
 
 ## ![Writing アイコン](./icons/icon-writing.svg) Writing
