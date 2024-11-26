@@ -24,9 +24,9 @@
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
-      <th width="20%">期間</th>
+      <th width="15%">期間</th>
       <th width="30%">社名</th>
-      <th width="50%">業務内容</th>
+      <th width="55%">業務内容</th>
     </tr>
   </thead>
   <tbody>
