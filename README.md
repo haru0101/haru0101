@@ -47,4 +47,4 @@
 
 ## ![Stats アイコン](./icons/icon-stats.svg) My Roadmap
 
-[![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0)](https://roadmap.sh)
