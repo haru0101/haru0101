@@ -47,7 +47,7 @@
 
 ## ![Stats アイコン](./icons/icon-stats.svg) My Stats
 
-![Haruki's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru0101&hide=contribs,stars)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haru0101)
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=light)](https://roadmap.sh)
 
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
