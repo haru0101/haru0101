@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect width="20" height="20" fill="none"/>
+  <g>
+    <!-- Circle animation connecting points -->
+    <circle cx="5" cy="8" r="2" fill="#4285f4">
+      <animate attributeName="cx" values="5;15;5" dur="2s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="5;15;5" dur="2s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="15" cy="18" r="2" fill="#34a853">
+      <animate attributeName="cx" values="15;5;15" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="15;5;15" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="5" cy="18" r="2" fill="#fbbc05">
+      <animate attributeName="cx" values="5;15;5" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="15;5;15" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
