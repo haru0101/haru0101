@@ -48,8 +48,10 @@
 ## ![Stats アイコン](./icons/icon-stats.svg) My Stats
 
 [![roadmap.sh](https://roadmap.sh/card/wide/652e68f8f43a58c923dea3c0?variant=light)](https://roadmap.sh)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haru0101&hide_border=true" alt="GitHub Streak" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&count_private=true&hide_title=true&hide_border=true" alt="GitHub Stats" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haru0101&hide_border=true&theme=radical#gh-dark-mode-only" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical#gh-dark-mode-only" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haru0101&hide_border=true#gh-light-mode-only" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&count_private=true&hide_title=true&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
 <div align="center">
