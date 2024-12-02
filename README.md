@@ -73,10 +73,10 @@
 
 ## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
 
-|資格名|プラットフォーム|修了証|
+|コース名|プラットフォーム|修了証|
 |-|-|-|
-|Accessibility fundamentals|Microsoft Learn|<img style="width: 360px;" src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証">|
-|Introduction to Accessible Web Development|Coursera|<img style="width: 360px;" src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証">|
+|Accessibility fundamentals|Microsoft Learn|<img style="width: 340px;" src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証">|
+|Introduction to Accessible Web Development|Coursera|<img style="width: 340px;" src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証">|
 
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
