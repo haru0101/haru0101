@@ -73,7 +73,10 @@
 
 ## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
 
-<img src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down; margin-right: 2%; box-sizing: border-box;"><img src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down; box-sizing: border-box;">
+|資格名|修了証|
+|-|-|
+|Accessibility fundamentals|![Accessibility fundamentals の修了証](./images/image-accessibility-fundamentals.jpg)|
+|Introduction to Accessible Web Development|![Introduction to Accessible Web Development の修了証](./images/image-introduction-to-accessible-web-development.jpg)|
 
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
