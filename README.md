@@ -78,7 +78,6 @@
   <img src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証" style="width: 49%; height: auto; margin-bottom: 10px; border: 1px gray solid; object-fit: contain;">
 </div>
 
-
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
 <div align="center">
