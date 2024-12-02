@@ -73,7 +73,7 @@
 
 ## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
 
-<img src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down;"><img src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down;">
+<img src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down; margin-right: 2%; box-sizing: border-box;"><img src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証" style="width: 49%; aspect-ratio: 22 / 17; margin-bottom: 10px; border: 1px gray solid; object-fit: scale-down; box-sizing: border-box;">
 
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
