@@ -71,6 +71,14 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haru0101)
 
+## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証" style="width: 49%; height: auto; margin-bottom: 10px; border: 1px gray solid; object-fit: contain;">
+  <img src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証" style="width: 49%; height: auto; margin-bottom: 10px; border: 1px gray solid; object-fit: contain;">
+</div>
+
+
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
 <div align="center">
