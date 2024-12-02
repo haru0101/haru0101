@@ -75,8 +75,8 @@
 
 |資格名|修了証|
 |-|-|
-|Accessibility fundamentals|![Accessibility fundamentals の修了証](./images/image-accessibility-fundamentals.jpg)|
-|Introduction to Accessible Web Development|![Introduction to Accessible Web Development の修了証](./images/image-introduction-to-accessible-web-development.jpg)|
+|<p>Accessibility fundamentals</p>|<img style="max-width: 450px; width: 100%;" src="./images/image-accessibility-fundamentals.jpg" alt="Accessibility fundamentals の修了証">|
+|<p>Introduction to Accessible Web Development|<img style="max-width: 450px; width: 100%;" src="./images/image-introduction-to-accessible-web-development.jpg" alt="Introduction to Accessible Web Development の修了証">|
 
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
