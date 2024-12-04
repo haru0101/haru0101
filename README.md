@@ -69,7 +69,7 @@
 
 ## ![Stats アイコン](./icons/icon-stats.svg) My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haru0101)
+![Haruki's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&theme=radical)
 
 ## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
 
