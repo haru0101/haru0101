@@ -67,9 +67,9 @@
 - 2023-07-25 [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/okuda_haruki/n/n8c985351334e)
 - 2023-06-27 [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/okuda_haruki/n/n48d2f31d49e9)<!-- NOTE-POST-LIST:END -->
 
-## ![Stats アイコン](./icons/icon-stats.svg) My Stats
+<!-- ## ![Stats アイコン](./icons/icon-stats.svg) My Stats -->
 
-![Haruki's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&theme=radical)
+<!-- ![Haruki's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru0101&show_icons=true&theme=radical) -->
 
 ## ![Certifications アイコン](./icons/icon-certifications.svg) Certifications
 
