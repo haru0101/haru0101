@@ -54,11 +54,11 @@
 ### Zenn
 
 <!-- ZENN-POST-LIST:START -->
+- 2024-12-28 [WCAG の概要と構造について（原則・ガイドライン・達成基準・関連文書）](https://zenn.dev/harryduck/articles/what-is-wcag)
 - 2024-11-27 [大規模なコード変更を小さなPRに分割するテクニック](https://zenn.dev/harryduck/articles/large-code-changes-into-smaller-prs)
 - 2023-05-30 [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
 - 2022-10-23 [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)
-- 2022-08-28 [やってみたら意外と簡単！はじめてのOSSコントリビュート](https://zenn.dev/harryduck/articles/00d700ef4d98fa)
-- 2022-05-02 [【Vue】&lt;script setup&gt;をサクッと使ってみる](https://zenn.dev/harryduck/articles/7550e7fd938db5)<!-- ZENN-POST-LIST:END -->
+- 2022-08-28 [やってみたら意外と簡単！はじめてのOSSコントリビュート](https://zenn.dev/harryduck/articles/00d700ef4d98fa)<!-- ZENN-POST-LIST:END -->
 
 ### note
 
