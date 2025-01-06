@@ -54,11 +54,11 @@
 ### Zenn
 
 <!-- ZENN-POST-LIST:START -->
+- 2025-01-05 [フロントエンド開発者のためのalt属性入門](https://zenn.dev/harryduck/articles/alt-attribute-in-a11y)
 - 2024-12-29 [WCAG の4つの原則（知覚可能・操作可能・理解可能・堅牢）について](https://zenn.dev/harryduck/articles/what-are-4-principles-of-wcag)
 - 2024-12-28 [WCAG の概要と構造について（原則・ガイドライン・達成基準・関連文書）](https://zenn.dev/harryduck/articles/what-is-wcag)
 - 2024-11-27 [大規模なコード変更を小さなPRに分割する Git コマンドたち](https://zenn.dev/harryduck/articles/large-code-changes-into-smaller-prs)
-- 2023-05-30 [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)
-- 2022-10-23 [主要なHTTPメソッドのざっくりした違い for フロントエンドエンジニア](https://zenn.dev/harryduck/articles/2d7c1f1716833a)<!-- ZENN-POST-LIST:END -->
+- 2023-05-30 [エンジニアが個人情報保護士に合格したので、その感想と効率的な勉強方法を公開する](https://zenn.dev/harryduck/articles/2b9001e63eeeb1)<!-- ZENN-POST-LIST:END -->
 
 ### note
 
