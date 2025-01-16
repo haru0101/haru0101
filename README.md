@@ -81,7 +81,7 @@
 ## ![Connect With Me アイコン](./icons/icon-connect-with-me.svg) Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/haruki.okuda.0905/" target="_blank">
+  <a href="https://www.facebook.com/haruki.oe.0905/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
