@@ -53,8 +53,8 @@
 
 ### Dev.to
 
-<!-- DEV-TO-LIST:START -->
-<!-- DEV-TO-LIST:END -->
+<!-- DEV-TO-POST-LIST:START -->
+<!-- DEV-TO-POST-LIST:END -->
 
 ### Zenn
 
