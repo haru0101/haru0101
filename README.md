@@ -51,6 +51,11 @@
 
 ## ![Writing アイコン](./icons/icon-writing.svg) Writing
 
+### Dev.to
+
+<!-- DEV-TO-LIST:START -->
+<!-- DEV-TO-LIST:END -->
+
 ### Zenn
 
 <!-- ZENN-POST-LIST:START -->
