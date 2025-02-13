@@ -58,7 +58,7 @@
 - 2025-02-11 [Git Commands for Breaking Down Large Code Changes into Smaller PRs](https://dev.to/oeharuki/git-commands-for-breaking-down-large-code-changes-into-smaller-prs-2n84)
 - 2025-02-11 [A Guide to Alt Attributes for Frontend Developers](https://dev.to/oeharuki/a-guide-to-alt-attributes-for-frontend-developers-4238)
 - 2025-02-11 [Understanding the 4 Principles of WCAG &lpar;Perceivable, Operable, Understandable, Robust&rpar;](https://dev.to/oeharuki/understanding-the-4-principles-of-wcag-perceivable-operable-understandable-robust-2c55)
-- 2025-02-11 [Understanding WCAG: Structure, Principles, Guidelines, Success Criteria, and Supporting Documents](https://dev.to/oeharuki/understanding-wcag-structure-principles-guidelines-success-criteria-and-supporting-documents-1fc)<!-- DEV-TO-POST-LIST:END -->
+- 2025-02-11 [Understanding WCAG: Structure, Principles, Guidelines, and Success Criteria](https://dev.to/oeharuki/understanding-wcag-structure-principles-guidelines-success-criteria-and-supporting-documents-1fc)<!-- DEV-TO-POST-LIST:END -->
 
 ### Zenn
 
