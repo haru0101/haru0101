@@ -72,6 +72,7 @@
 ### note
 
 <!-- NOTE-POST-LIST:START -->
+- 2025-07-06 [タコピーは私たちの中にいる【タコピーの原罪】](https://note.com/oe_haruki/n/n2ff80600f510)
 - 2024-06-22 [会社で悩みを打ち明けることは、自分のためだけではなくチームのためにもなるという話](https://note.com/oe_haruki/n/nb95bf39a78ea)
 - 2023-07-25 [世阿弥が残した『初心忘るべからず』の本当の意味を自己肯定感の低い人に贈りたい](https://note.com/oe_haruki/n/n8c985351334e)
 - 2023-06-27 [オフィスに鳴る電話、母との20年ぶりの再会、そして家族の愛を知る。](https://note.com/oe_haruki/n/n48d2f31d49e9)<!-- NOTE-POST-LIST:END -->
