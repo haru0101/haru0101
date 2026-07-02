@@ -12,14 +12,15 @@
   <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/-Codex-0F172A?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://images.ctfassets.net/kftzwdyauwt9/3hUGLn3ypllZ0oa01qOYVq/28e8188e6f11b84c3e876569d492734f/Blossom_Light.svg?q=90&w=3840" alt="OpenAI Blossom" height="28" style="background-color: #0F172A; padding: 5px 8px; border-radius: 4px 0 0 4px; vertical-align: middle;">
+  <img src="https://img.shields.io/badge/-Codex-0F172A?style=for-the-badge" alt="Codex" style="margin-left: -4px; vertical-align: middle;">
 </div>
 
 ## ![Work Experience アイコン](./icons/icon-work-experience.svg) Work Experience
